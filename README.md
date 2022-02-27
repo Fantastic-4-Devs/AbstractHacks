@@ -36,9 +36,9 @@ After doing a lot of brainstroming we came to this idea. The main motive of the 
 </h2>
 <p align="center">
 	<img src="./images/Screenshot 2022-02-27 at 5.10.30 PM.png"/>
-	<img src="./images/Screenshot 2022-02-27 at 5.09.46 PM.png"/>
-	<img src="./images/Screenshot 2022-02-27 at 5.09.57 PM.png"/>
-	<img src="./images/Screenshot 2022-02-27 at 5.10.09 PM.png"/>
+	<img src="./images/Screenshot from 2022-02-27 18-44-04.png"/>
+	<img src="./images/Screenshot from 2022-02-27 19-07-37.png"/>
+	<img src="./bug-museum/art_07.gif"/>
 </p>
 
 
