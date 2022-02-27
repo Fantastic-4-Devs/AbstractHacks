@@ -10,7 +10,7 @@
 
 ## ❤️ Note for new Contributors : ❤️
 
-![Alt Text](https://tenor.com/view/writing-notes-checklist-spongebob-squarepants-gif-16129592)
+![Note](https://media.giphy.com/media/RK9DbwtrgLeb1guQmO/giphy.gif)
 
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
