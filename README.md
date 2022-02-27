@@ -28,6 +28,11 @@ Everyone has an artists in themselves. With this project we are trying to encour
     📌 Story of the project :
 </h2>
 
+<p align="center">
+	<img src="https://media.giphy.com/media/25KEhzwCBBFPb79puo/giphy.gif"/>
+</p>
+
+
 After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles.
 
 <h2 align="center">
