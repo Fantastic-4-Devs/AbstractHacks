@@ -57,7 +57,7 @@ After doing a lot of brainstroming we came to this idea. The main motive of the 
 </h2>
 
 <p align="center">
-	<img src="https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW"/>
+	<img src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif"/>
 </p>
 
 
