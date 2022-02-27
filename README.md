@@ -4,7 +4,7 @@
 
 <p align="center">
     ✨ Welcome to Abstract Hacks ✨ <br />
-   Giving you the experience of visiting the artistically themed museum and music art-room. Get to know about different bugs and enjoy music out of your artwork
+   Giving you the experience of visiting the artistically themed museum and music art-room. Solve a small puzzle about bugs and enjoy music out of your artwork.
 </p>
 <br />
 
@@ -13,10 +13,10 @@
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
 ## 📌 About the project :
-
+Everyone has an artists in themselves. With this project we are trying to encourage the artist within you with a touch of technology. The project starts with a small puzzle for increasing your excitement. Once you clear it you enter a music art-room, where you can upload your artwork and we will generate a music for you 🎵 💕
 
 ## 📌 Story of the project :
-
+After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles.
 
 ## 📌 Demo Images :
 
@@ -27,6 +27,9 @@ Thank you very much for considering this project. Make sure you read [Code of Co
 
 ## 📌 Technologies used
 
+1) HTML
+2) CSS
+3) JavaScript
 
 ## 📌 Contribution :
 
