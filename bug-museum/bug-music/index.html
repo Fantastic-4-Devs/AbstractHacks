@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Bug Art</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link href='https://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id='a'></div>
+<div id="main">
+  <form action="">
+      <fieldset class="radio-group2 trig">
+        <legend>Change wave type</legend>
+        <label for="Sine" class="input-label">
+          <input type="radio" value="Sine"name="options" checked="checked" id="Sine"/>
+          <span>Sine</span>
+        </label>
+        <label for="Square" class="input-label">
+          <input type="radio"  value="Square" name="options" id="Square"/>
+          <span>Square</span>
+        </label>
+        <label for="Triangle" class="input-label">
+          <input type="radio" value="Triangle" name="options" id="Triangle"/>
+          <span>Triangle</span>
+        </label>
+      </fieldset>
+    </form>
+  <div class="wrapper">
+    <div class="go-back trig" onClick="history.go(0)">
+      <input type="button" value="Refresh Page" >
+      <i class="fa fa-undo"></i>
+    <div class="txt2"><p>Try another photo</p></div>
+  </div>
+  <div id='sequencer'>
+    <div class="wrapper">
+      <div class="file-upload">
+        <input type="file" id="photo"/>
+        <i class="fa fa-arrow-up"></i>
+      </div>
+        <div class="txt"><p>Upload a photo</p></div>
+    </div>
+  </div>
+  
+</div>
+  <form action="">
+      <fieldset class="radio-group trig">
+        <legend> Color to sound theory:</legend>
+        <label for="Chakra" class="input-label">
+          <input type="radio" value="1"name="options" checked="checked" id="Chakra"/>
+          <span>Chakra</span><i class="fa fa-question" onclick="window.open('http://www.flutopedia.com/img/ChakraCorrespondence_lg.jpg');"></i>
+        </label>
+        <label for="Nextdrum" class="input-label">
+          <input type="radio"  value="2" name="options" id="Nextdrum"/>
+          <span>Nextdrum</span><i class="fa fa-question" onclick="window.open('http://www.flutopedia.com/img/ColorOfSound_Nextdrum_lg.jpg');"></i>
+        </label>
+        <label for="Scriabin" class="input-label">
+          <input type="radio" value="3" name="options" id="Scriabin"/>
+          <span>Scriabin</span><i class="fa fa-question" onclick="window.open('http://www.flutopedia.com/img/ScriabinCircle_lg.jpg');"></i>
+        </label>
+      </fieldset>
+    </form>
+  <div class="slider1 trig">
+    <p>Beats per minute (speed)</p>
+    <div class="center">
+      <input class="range-slider__range" type="range" value="200" min="20" max="500">
+      <span class="range-slider__value">200</span>
+    </div>
+  </div>
+</div>
+<div class="pngLights"></div>  
+
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js'></script><script  src="./script.js"></script>
+
+ <canvas id="canvas" ></canvas>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react-dom.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
