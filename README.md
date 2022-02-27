@@ -8,7 +8,9 @@
 </p>
 <br />
 
-## ❤️ Note for new Contributors : ❤️
+<h3 align="center">
+    ❤️ Note for new Contributors : ❤️
+</h3>
 
 <p align="center">
 	<img src="https://media.giphy.com/media/RK9DbwtrgLeb1guQmO/giphy.gif"/>
@@ -58,7 +60,7 @@ For new contibution or feature :
 4. Enjoy adding the feature
 
 <h3 align="center">
-    📌 📌 Steps to contibute :
+    📌 Steps to contibute :
 </h3>
 
 1. Fork the project:
