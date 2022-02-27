@@ -10,6 +10,8 @@
 
 ## ❤️ Note for new Contributors : ❤️
 
+![Alt Text](https://tenor.com/bfQcS.gif)
+
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
 ## 📌 About the project :
