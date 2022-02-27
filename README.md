@@ -4,7 +4,7 @@
 
 <p align="center">
     ✨ Welcome to Abstract Hacks ✨ <br />
-    This game embarks the common phishing traps used by the hacker 👹 and spreads awareness in users  to keep themselves safe in this cyber world
+   Giving you the experience of visiting the artistically themed museum and music art-room. Get to know about different bugs and enjoy music out of your artwork
 </p>
 <br />
 
