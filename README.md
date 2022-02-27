@@ -29,7 +29,7 @@ Everyone has an artists in themselves. With this project we are trying to encour
 </h2>
 
 <p align="center">
-	<img src="https://media.giphy.com/media/25KEhzwCBBFPb79puo/giphy.gif"/>
+	<img src="https://media.giphy.com/media/XHYPFKachYRYGMVzGR/giphy.gif"/>
 </p>
 
 
