@@ -109,7 +109,7 @@ git clone https://github.com/<your-github-username>/AbstractHacks.git
 
 
 <p align="center">
-	<img src="https://media.giphy.com/media/DNpWCDNx03IXlETSac/giphy-downsized-large.gif"/>
+	<img src="https://media.giphy.com/media/5pUAw9XjALuWepcOgV/giphy.gif"/>
 </p>
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
