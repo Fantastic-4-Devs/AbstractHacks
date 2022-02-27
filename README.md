@@ -16,26 +16,37 @@
 
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
-## 📌 About the project :
+<h3 align="center">
+    📌 About the project :
+</h3>
+
 Everyone has an artists in themselves. With this project we are trying to encourage the artist within you with a touch of technology. The project starts with a small puzzle for increasing your excitement. Once you clear it you enter a music art-room, where you can upload your artwork and we will generate a music for you 🎵 💕
 
-## 📌 Story of the project :
+<h3 align="center">
+    📌 Story of the project :
+</h3>
+
 After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles.
 
-## 📌 Demo Images :
+<h3 align="center">
+    📌 Demo Images :
+</h3>
 
+<h3 align="center">
+    📌 Demo Video
+</h3>
 
-## 📌 Demo Video
-
-
-
-## 📌 Technologies used
+<h3 align="center">
+    📌 Technologies used
+</h3>
 
 1) HTML
 2) CSS
 3) JavaScript
 
-## 📌 Contribution :
+<h3 align="center">
+    📌 Contribution :
+</h3>
 
 Contribution to this repos are always welcome. You can always upgrade the UI, or fix any bug predefined in the issue section.
 
@@ -46,7 +57,9 @@ For new contibution or feature :
 3. Get acceptance from the code maintainers.
 4. Enjoy adding the feature
 
-## 📌 Steps to contibute :
+<h3 align="center">
+    📌 📌 Steps to contibute :
+</h3>
 
 1. Fork the project:
    Fork the project from https://github.com/Fantastic-4-Devs/AbstractHacks
@@ -71,7 +84,10 @@ git clone https://github.com/<your-github-username>/AbstractHacks.git
 
 8. Wait for acceptance ! Best of luck
 
-## Team Members & Contributors
+
+<h3 align="center">
+    📌 Team Members & Contributors
+</h3>
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
 
