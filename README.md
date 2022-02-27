@@ -33,6 +33,13 @@ After doing a lot of brainstroming we came to this idea. The main motive of the 
 <h2 align="center">
     📌 Demo Images :
 </h2>
+<p align="center">
+	<img src="./images/Screenshot 2022-02-27 at 5.10.30 PM.png"/>
+	<img src="./images/Screenshot 2022-02-27 at 5.09.46 PM.png"/>
+	<img src="./images/Screenshot 2022-02-27 at 5.09.57 PM.png"/>
+	<img src="./images/Screenshot 2022-02-27 at 5.10.09 PM.png"/>
+</p>
+
 
 <h2 align="center">
     📌 Demo Video
