@@ -360,8 +360,8 @@ floor:after {
 
 ceiling {
   transform: rotateX(-90deg) translate3d(-150rem, 0, -200rem);
-  box-shadow: 0 0 1rem #7f95a8, inset 0 0 10rem 0 rgba(17, 14, 18, 0.2);
-  background: radial-gradient(#fff, #7f95a8);
+  box-shadow: 0 0 1rem #a8a47f, inset 0 0 10rem 0 rgba(17, 14, 18, 0.2);
+  background: radial-gradient(#fff, #a89b7f);
 }
 ceiling:before {
   display: none;
@@ -453,7 +453,7 @@ wall4 door {
   width: 86rem;
   height: 224rem;
   border-radius: 1rem;
-  box-shadow: 0 0 0 150rem #7f95a8;
+  box-shadow: 0 0 0 150rem #e2a770;
   left: -10rem;
   right: -10rem;
   margin: auto;
@@ -463,11 +463,11 @@ wall4 door {
 wall4:after {
   width: 10rem;
   height: 224rem;
-  background: linear-gradient(#110e12, #9daebd, #637c91);
+  background: linear-gradient(#110e12, #bdb49d, #918563);
   transform: translate3d(183rem, 65rem, -4.5rem) rotateY(90deg);
 }
 wall4 door {
-  border: 5rem ridge rgba(157, 174, 189, 0.65);
+  border: 5rem ridge rgba(189, 182, 157, 0.65);
   box-shadow: 1rem 0.5rem 1rem rgba(17, 14, 18, 0.5), 0 0 1rem 0.5rem rgba(17, 14, 18, 0.5), 0 0 10rem rgba(17, 14, 18, 0.2);
   transform: translate3d(0, 0, 0.5rem);
 }
@@ -479,7 +479,7 @@ wall4 door:before, wall4 door:after {
 wall4 door:before {
   width: 100%;
   height: 185rem;
-  background: radial-gradient(circle at top left, rgba(188, 199, 209, 0.2), #9daebd) #9daebd;
+  background: radial-gradient(circle at top left, rgba(188, 199, 209, 0.2), #bdb39d) #bdb39d;
   box-shadow: inset 0 0 1.5rem #000, 0 0 1.5rem #000, inset 0 0 5rem rgba(0, 0, 0, 0.5);
 }
 wall4 door:after {
@@ -487,7 +487,7 @@ wall4 door:after {
   left: 14%;
   top: 10%;
   height: calc(100% / 3.5);
-  box-shadow: 1rem 1rem 0 #bcc7d1, -1rem -1rem 0 #7f95a8, 33rem 0 0 #9daebd, 34rem 1rem 0 #bcc7d1, 32rem -1rem 0 #7f95a8, 33rem 80rem 0 #9daebd, 34rem 81rem 0 #bcc7d1, 32rem 79rem 0 #7f95a8, 0 80rem 0 #9daebd, 1rem 81rem 0 #bcc7d1, -1rem 79rem 0 #7f95a8, 49rem 42rem 2rem -7.5rem rgba(127, 149, 168, 0.5), 49rem 42rem 0 -7.5rem #9daebd, 48.5rem 41.5rem 0 -7.5rem #bcc7d1;
+  box-shadow: 1rem 1rem 0 #bcc7d1, -1rem -1rem 0 #a89b7f, 33rem 0 0 #bdb29d, 34rem 1rem 0 #bcc7d1, 32rem -1rem 0 #7f95a8, 33rem 80rem 0 #9daebd, 34rem 81rem 0 #bcc7d1, 32rem 79rem 0 #7f95a8, 0 80rem 0 #9daebd, 1rem 81rem 0 #bcc7d1, -1rem 79rem 0 #7f95a8, 49rem 42rem 2rem -7.5rem rgba(127, 149, 168, 0.5), 49rem 42rem 0 -7.5rem #9daebd, 48.5rem 41.5rem 0 -7.5rem #bcc7d1;
 }
 wall4 door a {
   width: 100%;
@@ -585,11 +585,11 @@ fireexit {
   background: #008b54;
   transform: translate3d(125rem, 30rem, 0);
   border-radius: 1rem;
-  box-shadow: 0.5rem 1rem 2rem rgba(17, 14, 18, 0.25), inset 0 0 0 1rem #7f95a8, 0 0 50rem rgba(119, 231, 186, 0.1);
+  box-shadow: 0.5rem 1rem 2rem rgba(17, 14, 18, 0.25), inset 0 0 0 1rem #a89e7f, 0 0 50rem rgba(119, 231, 186, 0.1);
 }
 fireexit:before, fireexit:after {
-  border-bottom: 4rem solid #7f95a8;
-  border-left: 1.5rem solid #7f95a8;
+  border-bottom: 4rem solid #a8a17f;
+  border-left: 1.5rem solid #a89d7f;
   border-top: 2rem solid rgba(255, 255, 255, 0);
   transform: translate3d(35rem, 0.5rem, 0) skewY(-50deg);
   width: 5rem;
