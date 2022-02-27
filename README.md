@@ -2,6 +2,7 @@
    🐛 Artsy-Bugsy 🐛
 </h1>
 
+
 <p align="center">
     ✨ Welcome to Artsy-Bugsy ✨ <br />
    Giving you the experience of visiting the artistically themed museum and music art-room. Solve a small puzzle about bugs and enjoy music out of your artwork.
@@ -119,6 +120,8 @@ git clone https://github.com/<your-github-username>/AbstractHacks.git
 <p align="center">
 	<img src="https://media.giphy.com/media/5pUAw9XjALuWepcOgV/giphy.gif"/>
 </p>
+
+## Try Me -> https://fantastic-4-devs.github.io/AbstractHacks/
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
 
