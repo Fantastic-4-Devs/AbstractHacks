@@ -1,9 +1,9 @@
 <h1 align="center">
-    👨‍💻 Abstract Hacks 👨‍💻
+   🐛 Artsy-Bugsy 🐛
 </h1>
 
 <p align="center">
-    ✨ Welcome to Abstract Hacks ✨ <br />
+    ✨ Welcome to Artsy-Bugsy ✨ <br />
    Giving you the experience of visiting the artistically themed museum and music art-room. Solve a small puzzle about bugs and enjoy music out of your artwork.
 </p>
 <br />
