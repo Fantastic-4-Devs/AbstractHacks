@@ -10,7 +10,9 @@
 
 ## ❤️ Note for new Contributors : ❤️
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="center"/>
+<p align="center">
+	<img src="https://media.giphy.com/media/RK9DbwtrgLeb1guQmO/giphy.gif"/>
+</p>
 
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
