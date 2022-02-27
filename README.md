@@ -28,7 +28,8 @@ Thank you very much for considering this project. Make sure you read [Code of Co
 
 Everyone has an artists in themselves. With this project we are trying to encourage the artist within you with a touch of technology. The project starts with a small puzzle for increasing your excitement. Once you clear it you enter a music art-room, where you can upload your artwork and we will generate a music for you 🎵 💕
 
-After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles.
+After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles (ps- that was a bug too)  . We have seen many art museums but have you seen the bug museums? Yes! We have a virtual museum for the greatest bugs we observed till now. 
+
 
 <h2 align="center">
     📌 Demo Images :
