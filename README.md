@@ -22,6 +22,11 @@ Thank you very much for considering this project. Make sure you read [Code of Co
     📌 About the project :
 </h2>
 
+<p align="center">
+	<img src=""/>
+</p>
+
+
 Everyone has an artists in themselves. With this project we are trying to encourage the artist within you with a touch of technology. The project starts with a small puzzle for increasing your excitement. Once you clear it you enter a music art-room, where you can upload your artwork and we will generate a music for you 🎵 💕
 
 <h2 align="center">
@@ -43,9 +48,15 @@ After doing a lot of brainstroming we came to this idea. The main motive of the 
     📌 Demo Video
 </h2>
 
+
 <h2 align="center">
     📌 Technologies used
 </h2>
+
+<p align="center">
+	<img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif"/>
+</p>
+
 
 1) HTML
 2) CSS
@@ -54,6 +65,11 @@ After doing a lot of brainstroming we came to this idea. The main motive of the 
 <h2 align="center">
     📌 Contribution :
 </h2>
+
+<p align="center">
+	<img src=""/>
+</p>
+
 
 Contribution to this repos are always welcome. You can always upgrade the UI, or fix any bug predefined in the issue section.
 
@@ -67,6 +83,11 @@ For new contibution or feature :
 <h2 align="center">
     📌 Steps to contibute :
 </h2>
+
+<p align="center">
+	<img src=""/>
+</p>
+
 
 1. Fork the project:
    Fork the project from https://github.com/Fantastic-4-Devs/AbstractHacks
@@ -95,6 +116,11 @@ git clone https://github.com/<your-github-username>/AbstractHacks.git
 <h2 align="center">
     📌 Team Members & Contributors
 </h2>
+
+
+<p align="center">
+	<img src=""/>
+</p>
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
 
