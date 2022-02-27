@@ -8,9 +8,9 @@
 </p>
 <br />
 
-<h3 align="center">
+<h2 align="center">
     ❤️ Note for new Contributors : ❤️
-</h3>
+</h2>
 
 <p align="center">
 	<img src="https://media.giphy.com/media/RK9DbwtrgLeb1guQmO/giphy.gif"/>
@@ -18,37 +18,37 @@
 
 Thank you very much for considering this project. Make sure you read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md) before making contributions. Feel free to raise an issue and after gettting assigned to it, you are all set to work on it.
 
-<h3 align="center">
+<h2 align="center">
     📌 About the project :
-</h3>
+</h2>
 
 Everyone has an artists in themselves. With this project we are trying to encourage the artist within you with a touch of technology. The project starts with a small puzzle for increasing your excitement. Once you clear it you enter a music art-room, where you can upload your artwork and we will generate a music for you 🎵 💕
 
-<h3 align="center">
+<h2 align="center">
     📌 Story of the project :
-</h3>
+</h2>
 
 After doing a lot of brainstroming we came to this idea. The main motive of the project is to help the artist inside you to get curious and get your art outside on paper :). And whats better to see how your artwork would sound when converted into sweet tunes and jingles.
 
-<h3 align="center">
+<h2 align="center">
     📌 Demo Images :
-</h3>
+</h2>
 
-<h3 align="center">
+<h2 align="center">
     📌 Demo Video
-</h3>
+</h2>
 
-<h3 align="center">
+<h2 align="center">
     📌 Technologies used
-</h3>
+</h2>
 
 1) HTML
 2) CSS
 3) JavaScript
 
-<h3 align="center">
+<h2 align="center">
     📌 Contribution :
-</h3>
+</h2>
 
 Contribution to this repos are always welcome. You can always upgrade the UI, or fix any bug predefined in the issue section.
 
@@ -59,9 +59,9 @@ For new contibution or feature :
 3. Get acceptance from the code maintainers.
 4. Enjoy adding the feature
 
-<h3 align="center">
+<h2 align="center">
     📌 Steps to contibute :
-</h3>
+</h2>
 
 1. Fork the project:
    Fork the project from https://github.com/Fantastic-4-Devs/AbstractHacks
@@ -87,9 +87,9 @@ git clone https://github.com/<your-github-username>/AbstractHacks.git
 8. Wait for acceptance ! Best of luck
 
 
-<h3 align="center">
+<h2 align="center">
     📌 Team Members & Contributors
-</h3>
+</h2>
 
 All the below mentioned are prominent element of this project and without them it wouldn't be possible.
 
